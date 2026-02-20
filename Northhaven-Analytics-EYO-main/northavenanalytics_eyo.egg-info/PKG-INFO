@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: northavenanalytics-eyo
+Version: 1.0.0
+Author: Northhaven Analytics
+Author-email: info.northhavenanalytics@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: sentence-transformers
+Requires-Dist: torch
+Requires-Dist: fpdf2
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
